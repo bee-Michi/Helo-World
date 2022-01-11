@@ -1,5 +1,19 @@
 # Helo World
 Hello world. A collection of all hello worlds.
+## Version 3.0:
+- SQL
+- Objective c
+- Typescript
+- PowerShell
+- Z shell
+- Shell
+- D
+- Lua
+- Julia
+- Lisp
+
+
+
 
 ## Version 2.0:
 - Php
